@@ -1,20 +1,15 @@
 {
-    "name": "diglactic/laravel-breadcrumbs",
+    "name": "webikevn/breadcrumbs",
     "description": "A simple Laravel-style way to create breadcrumbs.",
     "keywords": [
         "laravel"
     ],
-    "homepage": "https://github.com/diglactic/laravel-breadcrumbs",
+    "homepage": "https://github.com/webikevn/breadcrumbs",
     "authors": [
         {
-            "name": "Sheng Slogar",
-            "email": "sheng@diglactic.com",
+            "name": "Nguyen Giang",
+            "email": "nguyen.giang@rivercrane.vn",
             "role": "Maintainer"
-        },
-        {
-            "name": "Dave James Miller",
-            "email": "dave@davejamesmiller.com",
-            "role": "Original Creator"
         }
     ],
     "license": "MIT",
